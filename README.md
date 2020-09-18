@@ -1,9 +1,5 @@
 # Useful websites for designers and develoeprs
 * [Programming Languages](#programming-languages)
-* [JavaScript Frameworks](#javascript-frameworks)
-* [JavaScript Libraries](#javascript-libraries)
-* [JavaScript Projects](#javascript-projects)
-* [Python Web Frameworks](#python-web-frameworks)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
 * [Coding Q&A](#coding-qa)
@@ -17,50 +13,12 @@
 
 ### Programming Languages
 * [C++](https://isocpp.org/)
-* [JavaScript](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/JavaScript/README.md)
-* [Python](https://www.python.org/)
+* [JavaScript](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/javascript/README.md)
+* [Python](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/python/README.md)
 * [Go](https://golang.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [R](https://www.r-project.org/)
 * [PHP](https://www.php.net/)
-
-### JavaScript Frameworks
-* [Angular](https://angular.io/)
-* [Vue](https://vuejs.org/)
-* [Ember](https://emberjs.com/)
-* [Meteor](https://www.meteor.com/)
-* [Mithril](https://mithril.js.org/)
-* [Node](https://nodejs.org/en/)
-* [Polymer](https://www.polymer-project.org/)
-* [Aurelia](https://aurelia.io/)
-* [Backbone](https://backbonejs.org/)
-
-### JavaScript Libraries
-* [React](https://reactjs.org/)
-* [jQuery](https://jquery.com/)
-
-### Javascript Projects
-* [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
-* [20+ PROJECTS YOU CAN DO WITH JAVASCRIPT](https://skillcrush.com/blog/projects-you-can-do-with-javascript/)
-
-### Python Web Frameworks 
-Full-stack Frameworks
-* [Django](https://www.djangoproject.com/)
-* [Pyramid](https://trypyramid.com/)
-* [TurboGears](https://www.turbogears.org/)
-* [Web2py](http://www.web2py.com/)
-Micro Frameworks
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-* [Bottle](http://bottlepy.org/docs/dev/index.html)
-* [CherryPy](https://cherrypy.org/)
-* [Falcon](https://falconframework.org/)
-* [Hug](http://www.hug.rest/)
-* [FastAPI](https://fastapi.tiangolo.com/)
-Asynchronous Frameworks
-* [Sanic](https://sanic.readthedocs.io/en/latest/)
-* [Tornado](https://www.tornadoweb.org/en/latest/)
-Other Frameworks
-* [Dash](https://plotly.com/dash/)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
