@@ -6,9 +6,10 @@
 * [Algorithm Challenges](#algorithm-challenges)
 * [CMS(Content Management System)](#cmscontent-management-system)
 * [Jobs](#jobs)
-* [Kmong](#freelancing-platforms)
+* [Freelancing Platforms](#freelancing-platforms)
 
 ### Online Courses
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Udemy](https://www.udemy.com/)
 
 ### Online References
