@@ -36,6 +36,7 @@
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Codecademy](https://www.codecademy.com/)
 * [Udemy](https://www.udemy.com/)
+* [JavaScript30](https://javascript30.com/)
 
 ### Online References
 * [w3schools](https://www.w3schools.com/)
