@@ -60,6 +60,7 @@ Other Frameworks
 * [Coursera](https://www.coursera.org/)
 * [Khanacademy](https://www.khanacademy.org/)
 * [Datacamp](https://www.datacamp.com/)
+* [Linkedin Learning](https://www.linkedin.com/learning/me)
 * [Fastcampus](https://fastcampus.co.kr/) :kr:
 
 ### Online References
