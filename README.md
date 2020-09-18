@@ -1,7 +1,8 @@
 # Useful websites for designers and develoeprs
 * [Programming Languages](#programming-languages)
 * [JavaScript Frameworks](#javascript-frameworks)
-* [JavaScript Library](#javascript-library)
+* [JavaScript Libraries](#javascript-libraries)
+* [JavaScript Projects](#javascript-projects)
 * [Python Web Frameworks](#python-web-frameworks)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
@@ -16,6 +17,7 @@
 
 ### Programming Languages
 * [C++](https://isocpp.org/)
+* [JavaScript](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/JavaScript/README.md)
 * [Python](https://www.python.org/)
 * [Go](https://golang.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
@@ -33,9 +35,13 @@
 * [Aurelia](https://aurelia.io/)
 * [Backbone](https://backbonejs.org/)
 
-### JavaScript Library
+### JavaScript Libraries
 * [React](https://reactjs.org/)
 * [jQuery](https://jquery.com/)
+
+### Javascript Projects
+* [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
+* [20+ PROJECTS YOU CAN DO WITH JAVASCRIPT](https://skillcrush.com/blog/projects-you-can-do-with-javascript/)
 
 ### Python Web Frameworks 
 Full-stack Frameworks
