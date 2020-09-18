@@ -34,6 +34,7 @@
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
+* [Codecademy](https://www.codecademy.com/)
 * [Udemy](https://www.udemy.com/)
 
 ### Online References
