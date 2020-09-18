@@ -7,6 +7,8 @@
 * [CMS(Content Management System)](#cmscontent-management-system)
 * [Jobs](#jobs)
 * [Freelancing Platforms](#freelancing-platforms)
+* [Community](#community)
+* [Blog Portal](#blog-portal)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -41,3 +43,10 @@
 ### Freelancing Platforms
 * [Soomgo](https://soomgo.com/) :kr:
 * [Kmong](https://kmong.com/) :kr:
+
+### Community
+* [Discord](https://discord.com/)
+
+### Blog Portal
+* [Dev.to](https://dev.to/)
+* [Hashnode](https://hashnode.com/)
