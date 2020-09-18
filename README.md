@@ -1,10 +1,10 @@
 # Useful websites for develoeprs
-* [Online Courses](#Online-Courses)
-* [Online References](#Online-References)
-* [Algorithm Challenges](#Algorithm-Challenges)
-* [Youtube](#Youtube)
-* [CMS(Content Management System)](#CMSContent-Management-System)
-* [Jobs](#Jobs)
+* [Online Courses](#online-courses)
+* [Online References](#online-references)
+* [Algorithm Challenges](#algorithm-challenges)
+* [Youtube](#youtube)
+* [CMS(Content Management System)](#cmscontent-management-system)
+* [Jobs](#jobs)
 
 ### Online Courses
 * [Udemy](https://www.udemy.com/)
