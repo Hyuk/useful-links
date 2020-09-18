@@ -92,7 +92,7 @@ Other Frameworks
 * [Exercism](https://exercism.io/)
 * [Codewars](https://www.codewars.com/)
 * [Leetcode](https://leetcode.com/)
-* [SPOJ](https://www.spoj.com/)
+* [Sphere online judge](https://www.spoj.com/)
 * [CodinGame](https://www.codingame.com/start)
 * [Programmers](https://programmers.co.kr/) :kr:
 * [BAEKJOON](https://www.acmicpc.net/) :kr:
