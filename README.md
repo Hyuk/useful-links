@@ -1,6 +1,6 @@
 # Useful websites for designers and develoeprs
 * [Programming Languages](#programming-languages)
-* [Frameworks](#frameworks)
+* [JavaScript Frameworks](#javascript-frameworks)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
 * [Coding Q&A](#coding-qa)
@@ -20,7 +20,7 @@
 * [R](https://www.r-project.org/)
 * [PHP](https://www.php.net/)
 
-### Frameworks
+### JavaScript Frameworks
 * [Angular](https://angular.io/)
 * [React](https://reactjs.org/)
 * [Vue](https://vuejs.org/)
@@ -31,6 +31,25 @@
 * [Polymer](https://www.polymer-project.org/)
 * [Aurelia](https://aurelia.io/)
 * [Backbone](https://backbonejs.org/)
+
+### Python Web Frameworks 
+Full-stack Frameworks
+* [Django](https://www.djangoproject.com/)
+* [Pyramid](https://trypyramid.com/)
+* [TurboGears](https://www.turbogears.org/)
+* [Web2py](http://www.web2py.com/)
+Micro Frameworks
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Bottle](http://bottlepy.org/docs/dev/index.html)
+* [CherryPy](https://cherrypy.org/)
+* [Falcon](https://falconframework.org/)
+* [Hug](http://www.hug.rest/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+Asynchronous Frameworks
+* [Sanic](https://sanic.readthedocs.io/en/latest/)
+* [Tornado](https://www.tornadoweb.org/en/latest/)
+Other Frameworks
+* [Dash](https://plotly.com/dash/)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
