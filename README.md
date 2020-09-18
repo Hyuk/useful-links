@@ -69,6 +69,7 @@
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 
 ### Freelancing Platforms
+* [Wishket](https://www.wishket.com/) :kr:
 * [Soomgo](https://soomgo.com/) :kr:
 * [Kmong](https://kmong.com/) :kr:
 
