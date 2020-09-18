@@ -1,4 +1,6 @@
 # Useful websites for designers and develoeprs
+* [Programming Languages](#programming-languages)
+* [Frameworks](#frameworks)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
 * [Coding Q&A](#coding-qa)
@@ -9,6 +11,26 @@
 * [Freelancing Platforms](#freelancing-platforms)
 * [Community](#community)
 * [Blog Portal](#blog-portal)
+
+### Programming Languages
+* [C++](https://isocpp.org/)
+* [Python](https://www.python.org/)
+* [Go](https://golang.org/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [R](https://www.r-project.org/)
+* [PHP](https://www.php.net/)
+
+### Frameworks
+* [Angular](https://angular.io/)
+* [React](https://reactjs.org/)
+* [Vue](https://vuejs.org/)
+* [Ember](https://emberjs.com/)
+* [Meteor](https://www.meteor.com/)
+* [Mithril](https://mithril.js.org/)
+* [Node](https://nodejs.org/en/)
+* [Polymer](https://www.polymer-project.org/)
+* [Aurelia](https://aurelia.io/)
+* [Backbone](https://backbonejs.org/)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
