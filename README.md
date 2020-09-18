@@ -58,6 +58,7 @@ Other Frameworks
 * [Udemy](https://www.udemy.com/)
 * [JavaScript30](https://javascript30.com/)
 * [Coursera](https://www.coursera.org/)
+* [Khanacademy](https://www.khanacademy.org/)
 * [Datacamp](https://www.datacamp.com/)
 * [Fastcampus](https://fastcampus.co.kr/) :kr:
 
