@@ -37,6 +37,8 @@
 * [Codecademy](https://www.codecademy.com/)
 * [Udemy](https://www.udemy.com/)
 * [JavaScript30](https://javascript30.com/)
+* [Coursera](https://www.coursera.org/)
+* [Fastcampus](https://fastcampus.co.kr/) :kr:
 
 ### Online References
 * [w3schools](https://www.w3schools.com/)
