@@ -1,4 +1,4 @@
-# Useful websites for develoeprs
+# Useful websites for designers and develoeprs
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
 * [Coding Q&A](#coding-qa)
