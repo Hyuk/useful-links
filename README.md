@@ -1,6 +1,7 @@
 # Useful websites for designers and develoeprs
 * [Programming Languages](#programming-languages)
 * [JavaScript Frameworks](#javascript-frameworks)
+* [JavaScript Library](#javascript-library)
 * [Python Web Frameworks](#python-web-frameworks)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
@@ -23,7 +24,6 @@
 
 ### JavaScript Frameworks
 * [Angular](https://angular.io/)
-* [React](https://reactjs.org/)
 * [Vue](https://vuejs.org/)
 * [Ember](https://emberjs.com/)
 * [Meteor](https://www.meteor.com/)
@@ -32,6 +32,10 @@
 * [Polymer](https://www.polymer-project.org/)
 * [Aurelia](https://aurelia.io/)
 * [Backbone](https://backbonejs.org/)
+
+### JavaScript Library
+* [React](https://reactjs.org/)
+* [jQuery](https://jquery.com/)
 
 ### Python Web Frameworks 
 Full-stack Frameworks
