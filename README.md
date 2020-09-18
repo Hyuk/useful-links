@@ -79,6 +79,16 @@ Other Frameworks
 * [Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 
 ### Algorithm Challenges
+* [Topcoder](https://www.topcoder.com/challenges)
+* [Coderbyte](https://coderbyte.com/)
+* [Project Euler](https://projecteuler.net/)
+* [Hackerrank](https://www.hackerrank.com/)
+* [Codechef](https://www.codechef.com/)
+* [Exercism](https://exercism.io/)
+* [Codewars](https://www.codewars.com/)
+* [Leetcode](https://leetcode.com/)
+* [SPOJ](https://www.spoj.com/)
+* [CodinGame](https://www.codingame.com/start)
 * [Programmers](https://programmers.co.kr/) :kr:
 * [BAEKJOON](https://www.acmicpc.net/) :kr:
 * [Codeup](https://codeup.kr/) :kr:
