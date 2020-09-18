@@ -57,6 +57,7 @@ Other Frameworks
 * [Udemy](https://www.udemy.com/)
 * [JavaScript30](https://javascript30.com/)
 * [Coursera](https://www.coursera.org/)
+* [Datacamp](https://www.datacamp.com/)
 * [Fastcampus](https://fastcampus.co.kr/) :kr:
 
 ### Online References
@@ -94,7 +95,6 @@ Other Frameworks
 
 ### Community
 * [Discord](https://discord.com/)
-
-### Blog Portal
 * [Dev.to](https://dev.to/)
 * [Hashnode](https://hashnode.com/)
+* [Datacamp Community](https://www.datacamp.com/community)
