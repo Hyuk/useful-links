@@ -14,6 +14,7 @@
 ### JavaScript Libraries
 * [React](https://reactjs.org/)
 * [jQuery](https://jquery.com/)
+* [Moment](https://momentjs.com/)
 
 ### JavaScript Animation Libraries
 * [D3](https://d3js.org/)
