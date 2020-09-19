@@ -59,7 +59,7 @@
 * [Sphere online judge](https://www.spoj.com/)
 * [CodinGame](https://www.codingame.com/start)
 * [Programmers](https://programmers.co.kr/) :kr:
-* [BAEKJOON](https://www.acmicpc.net/) :kr:
+* [Baekjoon](https://www.acmicpc.net/) :kr:
 * [Codeup](https://codeup.kr/) :kr:
 
 ### CMS(Content Management System)
@@ -68,8 +68,10 @@
 ### Jobs
 * [Linkedin](https://www.linkedin.com/)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+* [Programmers Jobs](https://programmers.co.kr/job) :kr:
 
 ### Freelancing Platforms
+* [Testbirds](https://www.testbirds.com/)
 * [Wishket](https://www.wishket.com/) :kr:
 * [Soomgo](https://soomgo.com/) :kr:
 * [Kmong](https://kmong.com/) :kr:
