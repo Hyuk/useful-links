@@ -44,9 +44,10 @@
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-* [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw) :kr:
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+* [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw) :kr:
+* [나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw) :kr:
 
 ### Algorithm Challenges
 * [Topcoder](https://www.topcoder.com/challenges)
