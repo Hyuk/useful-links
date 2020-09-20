@@ -1,4 +1,4 @@
-# Useful websites for designers and develoeprs
+# Useful Links
 * [Programming Languages](#programming-languages)
 * [Online Courses](#online-courses)
 * [Online References](#online-references)
