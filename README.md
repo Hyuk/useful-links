@@ -10,11 +10,12 @@
 * [Freelancing Platforms](#freelancing-platforms)
 * [Community](#community)
 * [Blog Portal](#blog-portal)
+* [Github](https://github.com/Hyuk/useful-links/edit/master/github/README.md)
 
 ### Programming Languages
 * [C++](https://isocpp.org/)
-* [JavaScript](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/javascript/README.md)
-* [Python](https://github.com/Hyuk/useful-websites-for-designers-developers/edit/master/python/README.md)
+* [JavaScript](https://github.com/Hyuk/useful-links/edit/master/javascript/README.md)
+* [Python](https://github.com/Hyuk/useful-links/edit/master/python/README.md)
 * [Go](https://golang.org/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [R](https://www.r-project.org/)
