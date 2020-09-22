@@ -9,17 +9,27 @@
 * [Jobs](#jobs)
 * [Freelancing Platforms](#freelancing-platforms)
 * [Community](#community)
-* [Blog Portal](#blog-portal)
 * [Github](https://github.com/Hyuk/useful-links/edit/master/github/README.md)
 
 ### Programming Languages
+* [Java](https://docs.oracle.com/javase/7/docs/api/)
 * [C++](https://isocpp.org/)
+* [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
 * [JavaScript](https://github.com/Hyuk/useful-links/edit/master/javascript/README.md)
 * [Python](https://github.com/Hyuk/useful-links/edit/master/python/README.md)
-* [Go](https://golang.org/)
-* [Ruby](https://www.ruby-lang.org/en/)
-* [R](https://www.r-project.org/)
 * [PHP](https://www.php.net/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Go](https://golang.org/)
+* [R](https://www.r-project.org/)
+* [Dart](https://dart.dev/)
+* [Scala](https://www.scala-lang.org/)
+
+### Mobile Frameworks
+* [Flutter](https://flutter.dev/)
+* [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+* [React Native](https://reactnative.dev/)
+* [Ionic](https://ionicframework.com/)
+* [Phonegap](https://phonegap.com/)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
