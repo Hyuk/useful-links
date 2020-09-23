@@ -17,6 +17,8 @@
 * [C#](https://docs.microsoft.com/ko-kr/dotnet/csharp/)
 * [JavaScript](https://github.com/Hyuk/useful-links/edit/master/javascript/README.md)
 * [Python](https://github.com/Hyuk/useful-links/edit/master/python/README.md)
+* [HTML]()
+* [CSS]()
 * [PHP](https://www.php.net/)
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Go](https://golang.org/)
@@ -39,8 +41,11 @@
 * [Coursera](https://www.coursera.org/)
 * [Khanacademy](https://www.khanacademy.org/)
 * [Linkedin Learning](https://www.linkedin.com/learning/me)
+* [Sololearn](https://www.sololearn.com/)
 * [Datacamp](https://www.datacamp.com/)
 * [Scrimba](https://scrimba.com/)
+* [Frontend Mentor](https://www.frontendmentor.io/)
+* [Test Automation University](https://testautomationu.applitools.com/)
 * [Fastcampus](https://fastcampus.co.kr/) :kr:
 
 ### Online References
@@ -84,13 +89,77 @@
 * [Programmers Jobs](https://programmers.co.kr/job) :kr:
 
 ### Freelancing Platforms
+* [Toptal](https://www.toptal.com/)
+* [Upwork](https://www.upwork.com/)
+* [Freelancer](https://www.freelancer.com/)
+* [Peopleperhour](https://www.peopleperhour.com/)
+* [Simplyhired](https://www.simplyhired.com/)
+* [Envato](https://envato.com/)
+* [Guru](https://www.guru.com/)
+* [Fiverr](https://www.fiverr.com/)
+* [Hireable](https://hireable.com/)
+* [6nomads](https://6nomads.com/)
 * [Testbirds](https://www.testbirds.com/)
 * [Wishket](https://www.wishket.com/) :kr:
 * [Soomgo](https://soomgo.com/) :kr:
 * [Kmong](https://kmong.com/) :kr:
+
+### Free Hosting
+* [Firebase](https://firebase.google.com/)
+* [Netlify](https://www.netlify.com/)
+* [Amazon](https://aws.amazon.com/)
+* [Heroku](https://www.heroku.com/)
+* [Github](https://pages.github.com/)
+* [Vercel](https://vercel.com/)
+* [Surge](https://surge.sh/)
+* [Render](https://render.com/)
+* [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 
 ### Community
 * [Discord](https://discord.com/)
 * [Dev.to](https://dev.to/)
 * [Hashnode](https://hashnode.com/)
 * [Datacamp Community](https://www.datacamp.com/community)
+
+### Photos
+* [Unsplash](https://unsplash.com/)
+* [Pixabay](https://pixabay.com/)
+* [Pexels](https://www.pexels.com/)
+
+### Illustrations
+* [unDraw](https://undraw.co/illustrations)
+* [DrawKit](https://www.drawkit.io/)
+* [Icons8](https://icons8.com/illustrations)
+* [IRA Design](https://iradesign.io/)
+* [Interfacer](https://interfacer.xyz/)
+* [Blush](https://blush.design/)
+
+
+### Icons
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+### Fonts
+* []()
+* []()
+* []()
+* []()
+
+
+### Code Editors
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+### Colors
+* []()
+* []()
+* []()
+* []()
