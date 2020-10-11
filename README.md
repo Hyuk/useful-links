@@ -7,7 +7,7 @@
 * [Algorithm Challenges](#algorithm-challenges)
 * [CMS(Content Management System)](#cmscontent-management-system)
 * [Jobs](#jobs)
-* [Freelancing Platforms](#freelancing-platforms)
+* [Freelancing Platforms](/freelance/README.md)
 * [Community](#community)
 * [Github](https://github.com/Hyuk/useful-links/edit/master/github/README.md)
 
@@ -87,22 +87,6 @@
 * [Linkedin](https://www.linkedin.com/)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Programmers Jobs](https://programmers.co.kr/job) :kr:
-
-### Freelancing Platforms
-* [Toptal](https://www.toptal.com/)
-* [Upwork](https://www.upwork.com/)
-* [Freelancer](https://www.freelancer.com/)
-* [Peopleperhour](https://www.peopleperhour.com/)
-* [Simplyhired](https://www.simplyhired.com/)
-* [Envato](https://envato.com/)
-* [Guru](https://www.guru.com/)
-* [Fiverr](https://www.fiverr.com/)
-* [Hireable](https://hireable.com/)
-* [6nomads](https://6nomads.com/)
-* [Testbirds](https://www.testbirds.com/)
-* [Wishket](https://www.wishket.com/) :kr:
-* [Soomgo](https://soomgo.com/) :kr:
-* [Kmong](https://kmong.com/) :kr:
 
 ### Free Hosting
 * [Firebase](https://firebase.google.com/)
