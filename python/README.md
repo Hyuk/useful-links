@@ -23,3 +23,6 @@
 
 ### Python Web Other Frameworks
 * [Dash](https://plotly.com/dash/)
+
+### Programming Book Publisher
+* [JPUB](https://jpub.tistory.com/)
