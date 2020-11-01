@@ -10,6 +10,7 @@
 * [Freelancing Platforms](/freelance/README.md)
 * [Community](#community)
 * [Github](https://github.com/Hyuk/useful-links/edit/master/github/README.md)
+* [Programming Book Publisher](#programming-book-publisher)
 
 ### Programming Languages
 * [Java](https://docs.oracle.com/javase/7/docs/api/)
@@ -119,7 +120,10 @@
 * [Blush](https://blush.design/)
 
 ### Fonts
-* [안심 글꼴파일](https://gongu.copyright.or.kr/freeFontEvent.html)
+* [안심 글꼴파일](https://gongu.copyright.or.kr/freeFontEvent.html) :kr:
+
+### Programming Book Publisher
+* [JPUB](https://jpub.tistory.com/) :kr:
 
 ### Icons
 * []()
