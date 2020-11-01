@@ -123,7 +123,8 @@
 * [안심 글꼴파일](https://gongu.copyright.or.kr/freeFontEvent.html) :kr:
 
 ### Programming Book Publisher
-* [JPUB](https://jpub.tistory.com/) :kr:
+* [Hanbit Media](https://www.hanbit.co.kr/media/) :kr:
+* [Jpub](https://jpub.tistory.com/) :kr:
 
 ### Icons
 * []()
