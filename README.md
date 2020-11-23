@@ -48,6 +48,7 @@
 * [Frontend Mentor](https://www.frontendmentor.io/)
 * [Test Automation University](https://testautomationu.applitools.com/)
 * [Fastcampus](https://fastcampus.co.kr/) :kr:
+* [Inflearn](https://www.inflearn.com/) :kr:
 
 ### Online References
 * [w3schools](https://www.w3schools.com/)
