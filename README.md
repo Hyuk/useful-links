@@ -128,6 +128,7 @@
 * [Hanbit Media](https://www.hanbit.co.kr/media/) :kr:
 * [Jpub](https://jpub.tistory.com/) :kr:
 * [Insight](http://ebook.insightbook.co.kr/) :kr:
+* [Wikibooks](https://wikibook.co.kr/) :kr:
 
 ### Icons
 * []()
