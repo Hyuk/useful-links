@@ -130,6 +130,7 @@
 * [Insight](http://ebook.insightbook.co.kr/) :kr:
 * [Wikibooks](https://wikibook.co.kr/) :kr:
 * [Easypub](http://www.easyspub.co.kr/) :kr:
+* [Youngjin](https://www.youngjin.com/) :kr:
 
 ### Icons
 * []()
