@@ -129,6 +129,7 @@
 * [Jpub](https://jpub.tistory.com/) :kr:
 * [Insight](http://ebook.insightbook.co.kr/) :kr:
 * [Wikibooks](https://wikibook.co.kr/) :kr:
+* [Easypub](http://www.easyspub.co.kr/) :kr:
 
 ### Icons
 * []()
