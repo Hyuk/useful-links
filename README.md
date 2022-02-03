@@ -29,10 +29,15 @@
 
 ### Mobile Frameworks
 * [Flutter](https://flutter.dev/)
+* [Swift UI](https://developer.apple.com/xcode/swiftui/)
 * [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 * [React Native](https://reactnative.dev/)
 * [Ionic](https://ionicframework.com/)
-* [Phonegap](https://phonegap.com/)
+* [Framework 7](https://framework7.io/)
+* [NativeScript](https://nativescript.org/)
+* [Capacitor](https://capacitorjs.com/)
+* [Monaca](https://monaca.io/)
+* [Onsen UI](https://onsen.io/)
 
 ### Online Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -91,10 +96,11 @@
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Programmers Jobs](https://programmers.co.kr/job) :kr:
 
-### Free Hosting
+### Hosting
 * [Firebase](https://firebase.google.com/)
 * [Netlify](https://www.netlify.com/)
 * [Amazon](https://aws.amazon.com/)
+* [Digital Ocean](https://www.digitalocean.com/)
 * [Heroku](https://www.heroku.com/)
 * [Github](https://pages.github.com/)
 * [Vercel](https://vercel.com/)
@@ -125,10 +131,11 @@
 * [안심 글꼴파일](https://gongu.copyright.or.kr/freeFontEvent.html) :kr:
 
 ### Programming Book Publisher
-* [Hanbit Media](https://www.hanbit.co.kr/media/) :kr:
-* [Jpub](https://jpub.tistory.com/) :kr:
-* [Insight](http://ebook.insightbook.co.kr/) :kr:
 * [Wikibooks](https://wikibook.co.kr/) :kr:
+* [Jpub](https://jpub.tistory.com/) :kr:
+* [Gilbut](https://www.gilbut.co.kr/) :kr:
+* [Hanbit Media](https://www.hanbit.co.kr/media/) :kr:
+* [Insight](http://ebook.insightbook.co.kr/) :kr:
 * [Easypub](http://www.easyspub.co.kr/) :kr:
 * [Youngjin](https://www.youngjin.com/) :kr:
 
@@ -156,3 +163,6 @@
 * []()
 * []()
 * []()
+
+### To be categorized
+* [Web.dev](https://web.dev/)
